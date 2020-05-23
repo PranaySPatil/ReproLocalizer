@@ -1,0 +1,12 @@
+
+MethodFinder/methodFinder/.DS_Store
+MethodFinder/methodFinder/*/
+MethodFinder/.DS_Store
+.DS_Store
+*.pickle
+*.csv
+*.json
+CommentsParserJava/.classpath
+CommentsParserJava/bin/JavaParserTest.class
+CommentsParserJava/result.json
+Presentations/_deprecated_DL4J_word2vec_test
